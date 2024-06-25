@@ -1,10 +1,2 @@
-num=int(input("Enter a number:"))
-if num>0:
-  print("Pastive")
-elif num<0:
-    print("nagative")
-else:
-    print("zero")
-    
-    
+
 
