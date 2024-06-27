@@ -1,0 +1,9 @@
+text=input("Enter a text:")
+word_count=lambda text:len(text.split())
+char_count=lambda text:len(text)
+reverse_text=lambda text:text[::-1]
+print("word Count:",word_count(text))
+print("charater Count:",char_count(text))
+print("reversed Count:",reverse_text(text))
+ 
+ 
