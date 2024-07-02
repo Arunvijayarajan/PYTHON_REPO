@@ -1,0 +1,5 @@
+import math
+result_natural=math.log(10)
+result_base_2=math.log(8,2)
+print("result_natural:",result_natural)
+print("result_base_2:", result_base_2)
